@@ -1,0 +1,18 @@
+[
+  {
+    "student_id": "STU001",
+    "request": "Plan my next semester focusing on AI."
+  },
+  {
+    "student_id": "STU002",
+    "request": "Give me a balanced workload."
+  },
+  {
+    "student_id": "STU001",
+    "request": "What prerequisites do I still need?"
+  },
+  {
+    "student_id": "STU002",
+    "request": "Choose courses that help me graduate on time."
+  }
+]

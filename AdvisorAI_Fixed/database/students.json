@@ -1,0 +1,31 @@
+[
+  {
+    "student_id": "STU001",
+    "name": "Arun Kumar",
+    "major": "Computer Science",
+    "gpa": 8.2,
+    "completed": [
+      "CS101",
+      "MATH101",
+      "CS201",
+      "MATH201"
+    ],
+    "goals": [
+      "graduate on time",
+      "focus on AI and machine learning"
+    ]
+  },
+  {
+    "student_id": "STU002",
+    "name": "Priya Sharma",
+    "major": "Computer Science",
+    "gpa": 7.6,
+    "completed": [
+      "CS101",
+      "MATH101"
+    ],
+    "goals": [
+      "balanced workload"
+    ]
+  }
+]

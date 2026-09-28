@@ -1,0 +1,14 @@
+{
+  "Computer Science": {
+    "required": [
+      "CS201",
+      "CS210",
+      "CS301",
+      "CS310",
+      "CS320",
+      "MATH201",
+      "AI401"
+    ],
+    "electives": 1
+  }
+}

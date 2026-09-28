@@ -1,0 +1,71 @@
+[
+  {
+    "code": "CS201",
+    "name": "Data Structures",
+    "credits": 4,
+    "term": "Odd",
+    "prerequisites": []
+  },
+  {
+    "code": "CS210",
+    "name": "Database Management Systems",
+    "credits": 4,
+    "term": "Even",
+    "prerequisites": [
+      "CS101"
+    ]
+  },
+  {
+    "code": "CS301",
+    "name": "Advanced Algorithms",
+    "credits": 4,
+    "term": "Odd",
+    "prerequisites": [
+      "CS201"
+    ]
+  },
+  {
+    "code": "CS310",
+    "name": "Machine Learning",
+    "credits": 4,
+    "term": "Odd",
+    "prerequisites": [
+      "CS201",
+      "MATH201"
+    ]
+  },
+  {
+    "code": "CS320",
+    "name": "Natural Language Processing",
+    "credits": 3,
+    "term": "Even",
+    "prerequisites": [
+      "CS310"
+    ]
+  },
+  {
+    "code": "MATH201",
+    "name": "Probability and Statistics",
+    "credits": 4,
+    "term": "Odd",
+    "prerequisites": [
+      "MATH101"
+    ]
+  },
+  {
+    "code": "AI401",
+    "name": "Deep Learning",
+    "credits": 4,
+    "term": "Even",
+    "prerequisites": [
+      "CS310"
+    ]
+  },
+  {
+    "code": "ELEC101",
+    "name": "Open Elective",
+    "credits": 3,
+    "term": "Odd",
+    "prerequisites": []
+  }
+]
